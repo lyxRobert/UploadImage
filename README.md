@@ -1,5 +1,6 @@
 # UploadImage
 这是一个关于上传头像自定义裁剪图片的demo，里面解决了三星的旋转问题
+
 public class MainAty extends Activity implements OnClickListener {
 	private final int CAMERA_WITH_DATA = 1;
 	/** 本地图片选取标志 */
